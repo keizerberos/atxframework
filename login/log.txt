@@ -1,0 +1,249 @@
+2017-11-03 11:47:50am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 11:51:40am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 04:19:13pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 04:19:15pm [TRY QUERY] select * from usuarios where usuario = '' and clave = ''
+2017-11-03 04:20:11pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 04:20:29pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 04:29:39pm [TRY QUERY] select * from usuarios where usuario = 'asd' and clave = '123123'
+2017-11-03 04:44:37pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 04:44:44pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 05:18:21pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 05:18:48pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 05:20:42pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-03 05:21:00pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 07:50:40pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 07:50:44pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-05 07:50:47pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 07:50:59pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-05 07:51:01pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:04:05pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:04:10pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:04:44pm [TRY QUERY] select * from usuarios where usuario = 'd' and clave = ''
+2017-11-05 11:04:47pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:05:37pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:05:59pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:06:19pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:06:19pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:09:23pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:09:23pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:12:12pm [TRY QUERY] select * from usuarios where usuario = 'ADMIN' and clave = '123'
+2017-11-05 11:12:12pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:12:34pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:12:34pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:12:50pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:12:50pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:13:02pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:13:03pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:17:06pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:17:06pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:31:57pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:31:57pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:32:08pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:32:08pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:32:54pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:32:54pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:33:24pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:33:24pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:34:30pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:34:30pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:38:50pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:38:50pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:39:09pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:39:09pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:39:11pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:39:11pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:40:16pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:40:16pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:41:02pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:41:02pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:41:36pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:41:36pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:41:58pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:41:58pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:45:15pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:45:15pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:45:39pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:45:39pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:45:52pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:45:52pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:46:09pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:46:09pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:46:11pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:46:11pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:46:14pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:46:14pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:46:33pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:46:33pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:46:36pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:46:36pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:46:43pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:46:43pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:48:43pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:48:43pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:48:50pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:48:50pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:50:43pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:50:43pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:50:48pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:50:49pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:50:54pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:50:54pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:51:07pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:51:07pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:52:27pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:52:27pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:53:03pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:53:03pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:53:12pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:53:12pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:54:07pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:54:07pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:54:52pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:54:52pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-05 11:55:25pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-05 11:55:25pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-06 12:06:48am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:06:48am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 0 and a.cod_usu = 1
+2017-11-06 12:07:51am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:07:52am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 12:07:57am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:07:57am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 12:08:03am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:08:03am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 12:08:59am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:08:59am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 12:09:04am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:09:04am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 12:09:54am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:09:54am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 12:09:58am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 12:09:58am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 09:51:09pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 09:51:13pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 09:51:17pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 09:51:25pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 10:01:56pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 10:02:02pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 10:06:04pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-06 10:06:14pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:06:14pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:06:37pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:06:37pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:13:45pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '1233'
+2017-11-06 10:13:47pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:13:47pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:13:49pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:13:49pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:17:18pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:17:18pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:17:37pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:17:37pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:17:39pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:17:39pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:19:46pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:19:46pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:19:54pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:19:54pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:28:41pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:28:41pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-06 10:28:44pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-06 10:28:44pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:49:13am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:49:13am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:49:17am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:49:17am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:49:23am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:49:23am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:49:35am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:49:35am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:52:32am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:52:32am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:53:07am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:53:07am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 08:55:20am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 08:55:20am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 09:02:55am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 09:02:55am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:03:33pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:03:33pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:05:54pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:05:54pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:05:57pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:05:57pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:06:11pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:06:11pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:07:34pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:07:34pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:18:17pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:18:17pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:18:33pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:18:33pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:18:47pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:18:47pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:19:32pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:19:32pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:19:39pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:19:39pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:19:48pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:19:48pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:19:56pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:19:56pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:20:27pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:20:27pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-07 12:22:05pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-07 12:22:05pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-20 11:31:02am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-20 11:31:06am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = 'admin'
+2017-11-23 12:23:32pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-11-23 12:23:35pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = 'admin'
+2017-11-23 12:24:10pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = 'admin'
+2017-11-23 12:24:55pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-23 12:24:55pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-23 12:25:04pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = 'admin'
+2017-11-23 12:25:10pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = 'admin'
+2017-11-30 09:15:28am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = 'admin'
+2017-11-30 09:15:32am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-11-30 09:15:32am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-11-30 10:55:40am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-12-12 11:29:23am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-12-12 11:29:23am [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-12-12 11:29:29am [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-12-12 04:55:28pm [TRY QUERY] select * from usuarios where usuario = 'jtordoya' and clave = '12345'
+2017-12-12 04:55:32pm [TRY QUERY] select * from usuarios where usuario = 'jtordoya' and clave = '12345'
+2017-12-18 06:08:41pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-12-18 06:12:23pm [TRY QUERY] select * from usuarios where usuario = 'jtordoya' and clave = '12345'
+2017-12-18 06:12:31pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-12-18 06:12:49pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2017-12-18 06:12:54pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-12-18 06:12:54pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-12-18 06:13:11pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '13'
+2017-12-18 06:13:18pm [TRY QUERY] select * from usuarios where usuario = 'sdffsd' and clave = 'fsd'
+2017-12-18 06:13:48pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '1234'
+2017-12-18 06:13:50pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-12-18 06:13:50pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-12-18 06:14:05pm [TRY QUERY] select * from usuarios where usuario = 'asdasd' and clave = '123'
+2017-12-18 06:14:05pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 2
+2017-12-18 06:14:25pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-12-18 06:14:25pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2017-12-18 06:15:00pm [TRY QUERY] select * from usuarios where usuario = 'asdasd' and clave = '123'
+2017-12-18 06:15:00pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 2
+2017-12-18 06:16:13pm [TRY QUERY] select * from usuarios where usuario = 'jtordoya' and clave = '123'
+2017-12-18 06:17:44pm [TRY QUERY] select * from usuarios where usuario = 'asdd' and clave = '123'
+2017-12-18 06:32:37pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2017-12-18 06:32:37pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2018-01-06 02:08:55pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2018-01-06 02:08:55pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2018-01-06 02:15:59pm [TRY QUERY] select * from usuarios where usuario = 'asdasd' and clave = '123'
+2018-01-06 02:15:59pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 2
+2018-01-06 03:04:26pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2018-01-06 03:04:26pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2018-01-28 08:11:41pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2018-01-28 08:11:41pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2018-01-28 09:48:20pm [TRY QUERY] select * from usuarios where usuario = 'Admin' and clave = '123'
+2018-01-28 09:48:20pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2018-01-29 08:28:19pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2018-01-29 08:28:23pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '123'
+2018-01-29 08:28:23pm [TRY QUERY] select m.cod, m.nom 'modulo', m.dir from maccesos a join modulos m on (m.cod = a.cod_mod) where a.acceso = 1 and a.cod_usu = 1
+2018-02-27 08:09:48pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '12345'
+2018-02-27 08:18:16pm [TRY QUERY] select * from usuarios where usuario = 'admin' and clave = '1234'
+2018-02-27 08:18:22pm [TRY QUERY] select * from usuarios where usuario = 'dsad' and clave = 'dsad'

@@ -1,0 +1,1824 @@
+2017-06-12 05:54:13pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:01:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:01:43pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:01:55pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:02:09pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:02:18pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:03:57pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:04:02pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:04:02pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:04:17pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:04:25pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:04:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:04:47pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:05:28pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:05:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:06:05pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:06:10pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:43pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:45pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:46pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:46pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:48pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:53pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:09:55pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:10:01pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:10:06pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:10:12pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:11:54pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:12:20pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:19:24pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:19:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:19:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:19:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:09pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:11pm [EXEC QUERY] delete from usuarios where cod = 3
+2017-06-12 06:20:11pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:16pm [EXEC QUERY] delete from usuarios where cod = 4
+2017-06-12 06:20:16pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:42pm [EXEC QUERY] delete from usuarios where cod = 5
+2017-06-12 06:20:42pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:45pm [EXEC QUERY] delete from usuarios where cod = 6
+2017-06-12 06:20:45pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:47pm [EXEC QUERY] delete from usuarios where cod = 8
+2017-06-12 06:20:47pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:49pm [EXEC QUERY] delete from usuarios where cod = 10
+2017-06-12 06:20:49pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:20:51pm [EXEC QUERY] delete from usuarios where cod = 11
+2017-06-12 06:20:51pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:26:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:26:40pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:26:44pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:26:50pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:27:00pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:27:01pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:28:51pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-12 06:29:06pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 08:40:51am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 08:41:06am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 08:41:08am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 08:43:10am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 08:43:12am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:36am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:37am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:40am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:42am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:47am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:53am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:02:59am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:03:05am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 09:33:25am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 11:35:12am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 11:45:58am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 11:46:02am [EXEC QUERY] select count(*) from usuarios 
+2017-06-13 11:46:07am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 09:50:04am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 09:50:08am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:31:07am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:31:52am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:33:04am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:33:56am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:34:28am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:36:40am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:36:59am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:37:25am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:51:29am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:54:03am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:56:12am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:56:29am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:56:39am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:56:54am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:57:04am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:57:22am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:57:51am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:57:52am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:57:59am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 10:58:02am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:03:17am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:04:38am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:05:28am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:05:37am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:05:39am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:05:59am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:47:25am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:47:51am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:47:51am [EXEC QUERY] select * from usuarios 
+2017-06-19 11:47:55am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:47:55am [EXEC QUERY] select * from usuarios 
+2017-06-19 11:47:57am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:47:57am [EXEC QUERY] select * from usuarios 
+2017-06-19 11:49:28am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:49:28am [EXEC QUERY] select * from usuarios 
+2017-06-19 11:59:16am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:59:16am [EXEC QUERY] select * from usuarios 
+2017-06-19 11:59:18am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:59:18am [EXEC QUERY] select * from usuarios 
+2017-06-19 11:59:19am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:59:19am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 11:59:55am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:59:55am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 11:59:59am [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:00pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:04pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:05pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:06pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:06pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:49pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:00:50pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:26pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:27pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:28pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:50pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:50pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:01:53pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:53pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:01:54pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:54pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:01:58pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:01:58pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:02:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:02:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:03:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:03:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:03:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:03:39pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:05:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:05:38pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:07:55pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:07:55pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:08:48pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:08:48pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:09:08pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:09:08pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:09:11pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:09:11pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:33:10pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:10pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:33:10pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:10pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:33:15pm [EXEC QUERY] delete from usuarios where cod = 17
+2017-06-19 12:33:15pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:15pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:33:16pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:16pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:33:30pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:30pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:33:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:32pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:33:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:34pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:33:42pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:43pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:33:44pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:33:44pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:34:03pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:34:03pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 10;
+2017-06-19 12:34:05pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:34:05pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:34:17pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:34:17pm [EXEC QUERY] select * from usuarios 
+2017-06-19 12:35:33pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:43pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:44pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:46pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:35:47pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:09pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:10pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:14pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:18pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:24pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:26pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:30pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:33pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 12:37:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:37pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:44pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:46pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:48pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:48pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:39:49pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:46:26pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:47:19pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:49:48pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:49:48pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:26pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:26pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:28pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:28pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:28pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:28pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:29pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:29pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:31pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:31pm [TRY QUERY] select * from usuarios 
+2017-06-19 02:55:51pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:51pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 5;
+2017-06-19 02:55:52pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:52pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 02:55:53pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:53pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5;
+2017-06-19 02:55:54pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:54pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 02:55:55pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:55pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 02:55:56pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:56pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 02:55:57pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:57pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5;
+2017-06-19 02:55:58pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 02:55:58pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 03:06:51pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:06:51pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 03:06:52pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:06:52pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5;
+2017-06-19 03:06:53pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:06:53pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 5;
+2017-06-19 03:06:55pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:06:55pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5;
+2017-06-19 03:06:56pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:06:56pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 03:07:06pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:07:06pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5;
+2017-06-19 03:07:07pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:07:07pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5;
+2017-06-19 03:27:59pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:04pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:04pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:06pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:06pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5 + 0;
+2017-06-19 03:28:07pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:07pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:08pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:08pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5 + 0;
+2017-06-19 03:28:10pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:10pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:11pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:11pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 5 + 10;
+2017-06-19 03:28:12pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:12pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:13pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:13pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5 + 0;
+2017-06-19 03:28:14pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:14pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:15pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:15pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 AND 5 + 10;
+2017-06-19 03:28:18pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:18pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:19pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:19pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 AND 5 + 0;
+2017-06-19 03:28:20pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:20pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 AND 5 + 5;
+2017-06-19 03:28:33pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:33pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:28:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:34pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:28:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:35pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:28:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:35pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:28:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:28:37pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:37pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 03:28:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:38pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:28:41pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:28:42pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:29:15pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:15pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 03:29:17pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:17pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:29:21pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:21pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 6 + 0;
+2017-06-19 03:29:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 6 + 1 AND 6 + 6;
+2017-06-19 03:29:25pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:25pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 6 + 0;
+2017-06-19 03:29:27pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:27pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 6 + 1 AND 6 + 6;
+2017-06-19 03:29:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:32pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 6 + 1 AND 6 + 6;
+2017-06-19 03:29:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:34pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:29:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:29:37pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:37pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:29:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:38pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:29:40pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:29:40pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:40:18pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:40:18pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:40:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:40:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:57:52pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:57:52pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:57:52pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:57:52pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 03:57:59pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:57:59pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 03:58:03pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:58:03pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:58:04pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:58:04pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 03:58:05pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:58:05pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 03:58:05pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 03:58:05pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 04:26:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:26:32pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 04:26:33pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:26:33pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 04:27:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:34pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 04:27:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:35pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 04:27:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 04:27:37pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:37pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-19 04:27:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:38pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 04:27:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:39pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-19 04:27:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:27:39pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-19 04:34:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-19 04:34:31pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-20 10:18:30am [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 10:18:31am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-20 10:18:40am [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 10:18:40am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 5 + 10;
+2017-06-20 10:18:41am [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 10:18:41am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 5 + 1 AND 5 + 5;
+2017-06-20 10:18:42am [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 10:18:42am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-20 10:26:04am [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 10:26:04am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-20 10:26:06am [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 10:26:06am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-06-20 03:18:50pm [EXEC QUERY] select count(*) from usuarios 
+2017-06-20 03:18:50pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 5 + 0;
+2017-07-19 05:25:14pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-19 05:25:15pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-19 05:25:17pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-19 05:25:17pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:07:55am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:07:55am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:25am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:25am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:26am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:26am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:26am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:26am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:26am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:26am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:26am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:26am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:26am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:26am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:26am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:26am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:27am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:27am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:27am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:27am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:27am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:27am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:27am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:27am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:27am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:27am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:27am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:27am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:28am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:28am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:28am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:28am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:28am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:28am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:28am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:28am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:28am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:28am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:29am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:29am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:29am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:29am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:29am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:29am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:29am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:29am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:29am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:29am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:29am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:29am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:30am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:30am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:30am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:30am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:30am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:30am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:32am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:32am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:08:42am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:08:42am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:48:38am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:48:39am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:48:42am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:48:42am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:48:47am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:48:47am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:48:49am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:48:49am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-20 11:48:50am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:48:50am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:49:02am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:49:02am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:32am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:32am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:33am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:33am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:33am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:33am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:34am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:34am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:34am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:34am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:34am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:34am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 11:52:35am [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 11:52:35am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 02:59:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 02:59:40pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-20 02:59:41pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-20 02:59:41pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 11:34:31am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:34:31am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 11:34:42am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:34:42am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 11:34:46am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:34:46am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 11:34:48am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:34:48am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 11:34:54am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:34:54am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 11:35:12am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:35:12am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 11:35:14am [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 11:35:14am [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:19:56pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:19:56pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:20:16pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:20:16pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:20:52pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:20:52pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:23:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:23:31pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:24:05pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:24:05pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:24:40pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:24:40pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:24:47pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:24:47pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:25:00pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:25:00pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:26:49pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:26:49pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:27:31pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:27:31pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:28:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:28:38pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 12:28:42pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 12:28:42pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 02:49:00pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 02:49:00pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 02:49:02pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 02:49:02pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 02:50:39pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 02:50:40pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 05:05:26pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:05:26pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:05:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:05:35pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:09:58pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:09:58pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:10:01pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:10:01pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:10:02pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:10:02pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:17:19pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:17:19pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:17:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:17:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:22pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:22pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:24pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:24pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:24pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:24pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:25pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:25pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:26pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:26pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:27pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:27pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:27pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:27pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:28pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:28pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:28pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:28pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:29pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:29pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:30pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:30pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:32pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:18:35pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:18:35pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:19:58pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:19:58pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:20:20pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:20:20pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:35:25pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:35:26pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:35:30pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:35:30pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:35:46pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:35:46pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:37:10pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:37:10pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:37:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:37:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:37:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:37:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:37:41pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:37:41pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:40:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:40:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 05:49:59pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 05:49:59pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 10 + 1 AND 10 + 10;
+2017-07-21 06:13:36pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:13:36pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:17:17pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:17:17pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:17:23pm [EXEC QUERY] delete from usuarios where cod = 7
+2017-07-21 06:17:23pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:17:23pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:17:29pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:17:29pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:18:21pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:18:21pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:18:32pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:18:32pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:18:34pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:18:34pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:18:38pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:18:38pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:19:50pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:19:50pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:19:54pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:19:54pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:24:13pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:24:13pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:24:17pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:24:17pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-07-21 06:24:24pm [EXEC QUERY] select count(*) from usuarios 
+2017-07-21 06:24:24pm [EXEC QUERY] 
+				SELECT t2.*
+				FROM (
+					SELECT ROW_NUMBER() OVER (ORDER BY cod) AS row, t1.* 
+					FROM (select * from usuarios  ) t1
+				) t2	
+				WHERE t2.row BETWEEN 0 + 1 AND 10 + 0;
+2017-09-01 10:41:00am [EXEC QUERY] select count(*) from usuarios 
+2017-09-01 10:41:00am [TRY QUERY] select * from usuarios 
+2017-09-13 12:28:27pm [EXEC QUERY] select count(*) from usuarios 
+2017-09-13 12:28:27pm [TRY QUERY] select * from usuarios 

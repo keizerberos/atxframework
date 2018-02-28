@@ -1,0 +1,12 @@
+.box.box-primary {
+    border-top-color: rgb(60, 141, 188);
+}
+.box {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px;
+    border-radius: 3px;
+    background: rgb(255, 255, 255);
+    border-top: 3px solid rgb(210, 214, 222);
+}

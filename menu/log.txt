@@ -1,0 +1,772 @@
+2017-06-19 11:03:17am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:03:17am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:04:38am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:04:38am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:05:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:05:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:05:37am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:05:37am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:05:39am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:05:39am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:05:59am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:05:59am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:47:25am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:47:25am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:47:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:47:52am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:49:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:49:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:49:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:49:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:59:15am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:59:15am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:59:16am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:59:16am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 11:59:18am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 11:59:18am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:01:50pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:01:50pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:01:55pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:01:55pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:01:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:01:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:02:00pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:02:00pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:02:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:02:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:03:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:03:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:03:37pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:03:37pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:03:39pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:03:39pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:05:35pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:05:35pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:05:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:05:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:07:13pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:07:13pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:07:52pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:07:52pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:07:55pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:07:55pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:08:46pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:08:46pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:08:48pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:08:48pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:33:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:33:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:33:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:33:31pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 12:34:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 12:34:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 02:55:51pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 02:55:51pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:06:51pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:06:51pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:27:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:27:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:28:04pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:28:04pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:28:33pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:28:33pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:29:21pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:29:21pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:29:32pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:29:32pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:29:34pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:29:34pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:40:18pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:40:18pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:40:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:40:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:57:54pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:57:54pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 03:57:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 03:57:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 04:26:32pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 04:26:32pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-19 04:26:33pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-19 04:26:33pm [EXEC QUERY] select * from mgrupos order by ord
+2017-06-20 10:18:31am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-20 10:18:31am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-20 10:26:05am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-20 10:26:05am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-20 10:26:06am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-20 10:26:06am [EXEC QUERY] select * from mgrupos order by ord
+2017-06-20 03:18:50pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-06-20 03:18:50pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:25:15pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:25:15pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:25:15pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:25:15pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:25:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:25:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:25:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:25:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:34:32pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:34:32pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:34:34pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:34:34pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:34:56pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:34:56pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:34:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:34:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:35:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:35:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:35:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:35:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:36:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:36:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:36:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:36:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:37:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:37:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:37:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:37:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:37:28pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:37:28pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:37:37pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:37:37pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:39:37pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:39:37pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:39:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:39:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 05:39:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 05:39:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:27:52pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:27:52pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:27:54pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:27:54pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:27:55pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:27:55pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:32:47pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:32:47pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:32:54pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:32:54pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:34:46pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:34:46pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:34:46pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:34:46pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:57pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:57pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:36:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:36:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:37:00pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:37:00pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:37:11pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:37:11pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:37:18pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:37:18pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:37:28pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:37:28pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:37:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:37:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:37:45pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:37:45pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:38:02pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:38:02pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:40:35pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:40:35pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:41:11pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:41:11pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:41:11pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:41:11pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:41:12pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:41:12pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:41:13pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:41:13pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-19 06:41:13pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-19 06:41:13pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 09:03:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 09:03:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 09:03:38am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 09:03:38am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:24am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:24am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:31am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:31am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:31am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:31am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:54am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:54am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:54am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:54am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:55am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:55am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:55am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:55am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:55am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:55am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:01:55am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:01:55am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:02:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:02:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:02:53am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:02:53am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:07:39am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:07:39am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:07:43am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:07:43am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:07:55am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:07:55am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:25am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:25am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:27am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:27am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:27am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:27am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:27am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:27am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:27am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:27am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:27am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:27am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:27am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:27am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:29am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:29am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:32am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:32am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:40am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:40am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:42am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:42am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:08:45am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:08:45am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:14:50am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:14:50am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:15:17am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:15:17am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:15:20am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:15:20am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:15:24am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:15:24am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:19:50am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:19:50am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:19:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:19:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:19:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:19:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:19:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:19:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:20:14am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:20:14am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:22:18am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:22:18am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:22:47am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:22:47am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:25:09am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:25:09am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:25:19am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:25:19am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:25:24am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:25:24am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:26:03am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:26:03am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:26:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:26:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:27:22am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:27:22am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:28:08am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:28:08am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:28:18am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:28:18am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:28:18am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:28:18am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:28:19am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:28:19am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:29:12am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:29:12am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:29:19am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:29:19am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:29:43am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:29:43am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:30:52am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:30:52am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:30:59am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:30:59am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:31:23am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:31:23am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:31:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:31:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:31:35am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:31:35am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:31:58am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:31:58am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:32:25am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:32:25am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:32:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:32:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:32:43am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:32:43am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:32:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:32:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:32:57am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:32:57am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:33:13am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:33:13am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:33:17am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:33:17am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:33:21am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:33:21am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:33:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:33:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:33:48am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:33:48am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:33:54am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:33:54am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:34:19am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:34:19am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:34:44am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:34:44am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:34:52am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:34:52am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:35:02am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:35:02am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:35:11am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:35:11am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:35:32am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:35:32am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:35:41am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:35:41am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:01am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:01am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:05am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:05am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:05am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:05am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:12am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:12am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:15am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:15am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:19am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:19am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:25am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:25am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:31am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:31am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:41am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:41am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:43am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:43am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:36:57am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:36:57am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:37:31am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:37:31am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:37:41am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:37:41am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:37:51am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:37:51am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:02am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:02am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:13am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:13am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:18am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:18am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:22am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:22am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:28am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:28am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:33am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:33am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:37am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:37am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:42am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:42am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:48am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:48am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:38:55am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:38:55am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:18am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:18am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:22am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:22am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:26am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:26am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:30am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:30am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:36am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:36am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:44am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:44am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:39:52am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:39:52am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:48:39am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:48:39am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:48:41am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:48:41am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:48:42am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:48:42am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:48:45am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:48:45am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:48:46am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:48:46am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:48:47am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:48:47am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:49:02am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:49:02am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:32am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:32am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:33am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:33am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:33am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:33am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:34am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:34am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 11:52:35am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 11:52:35am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 02:59:39pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 02:59:39pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 02:59:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 02:59:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:21:46pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:21:46pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:25:44pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:25:44pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:26:09pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:26:09pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:26:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:26:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:27:26pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:27:26pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:28:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:28:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:29:13pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:29:13pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:30:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:30:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:31:00pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:31:00pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:31:49pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:31:49pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:35:20pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:35:20pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 04:50:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 04:50:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:01:29pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:01:29pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:21:48pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:21:48pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:22:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:22:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:23:25pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:23:25pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:23:40pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:23:40pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:23:45pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:23:45pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:24:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:24:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:25:44pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:25:44pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:25:49pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:25:49pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:28:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:28:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:37:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:37:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:37:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:37:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:40:53pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:40:53pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:46:05pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:46:05pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:46:07pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:46:07pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:46:11pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:46:11pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:46:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:46:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:46:29pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:46:29pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:46:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:46:30pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:48:52pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:48:52pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:50:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:50:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:51:08pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:51:08pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:52:14pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:52:14pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:52:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:52:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:53:01pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:53:01pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 05:58:05pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 05:58:05pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 06:18:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 06:18:30pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 06:22:11pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 06:22:11pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-20 06:22:26pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-20 06:22:26pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 11:34:31am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 11:34:32am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 11:34:42am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 11:34:42am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 11:34:46am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 11:34:46am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 11:34:48am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 11:34:48am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 11:34:54am [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 11:34:54am [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 12:28:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 12:28:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 12:28:42pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 12:28:42pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 02:49:00pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 02:49:00pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 02:50:40pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 02:50:40pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:04:31pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:04:31pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:04:39pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:04:39pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:05:26pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:05:26pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:05:28pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:05:28pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:05:35pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:05:35pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:05:45pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:05:45pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:00pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:00pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:03pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:03pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:42pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:42pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:54pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:54pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:55pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:55pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:57pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:57pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:09:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:09:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:10:01pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:10:01pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:10:02pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:10:02pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:10:06pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:10:06pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:10:12pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:10:12pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:11:33pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:11:33pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:11:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:11:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:11:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:11:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:12:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:12:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:12:54pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:12:54pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:12:56pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:12:56pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:12:57pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:12:57pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:12:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:12:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:12:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:12:58pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:13:01pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:13:01pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:17:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:17:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:17:19pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:17:19pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:17:20pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:17:20pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:17:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:17:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:22pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:22pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:24pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:24pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:24pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:24pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:25pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:25pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:26pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:26pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:28pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:28pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:28pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:28pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:29pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:29pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:30pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:31pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:31pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:32pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:32pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:33pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:33pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:18:35pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:18:35pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:19:58pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:19:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:20:20pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:20:20pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:35:26pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:35:26pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:35:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:35:30pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:35:46pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:35:46pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:37:10pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:37:10pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:37:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:37:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:37:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:37:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:37:41pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:37:41pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:40:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:40:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:49:59pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:49:59pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 05:50:21pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 05:50:21pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:13:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:13:30pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:13:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:13:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:13:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:13:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:17:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:17:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:17:25pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:17:25pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:17:29pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:17:29pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:17:30pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:17:30pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:21pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:21pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:23pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:23pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:27pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:27pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:28pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:28pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:29pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:29pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:31pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:31pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:32pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:32pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:34pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:34pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:36pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:36pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:18:38pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:18:38pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:19:48pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:19:48pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:19:50pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:19:50pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:19:54pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:19:54pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:19:56pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:19:56pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:24:14pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:24:14pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:24:17pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:24:17pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:24:22pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:24:22pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:24:24pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:24:24pm [EXEC QUERY] select * from mgrupos order by ord
+2017-07-21 06:24:26pm [EXEC QUERY] select m.*,m.cod_mgrupo 'grupo' from modulos m order by m.ord
+2017-07-21 06:24:26pm [EXEC QUERY] select * from mgrupos order by ord

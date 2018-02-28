@@ -1,0 +1,29 @@
+core
+	pre
+
+	load
+
+	post
+
+
+template
+	html
+	head
+		...
+		core.js.pre
+		modules[].js.pre
+		modulse[].php.pre
+		
+	body
+		...
+	script
+		...
+		core.js.load
+		modulse[].js.load
+		modulse[].pre.load
+		
+		onload
+			...
+			core.js.post
+			modules[].js.post
+			modules[].pre.post

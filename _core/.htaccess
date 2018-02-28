@@ -1,0 +1,1 @@
+RewriteRule ^javabridge/atx/usuarios$ ^javabridge/atx/workspace/usuarios [R=301,L]

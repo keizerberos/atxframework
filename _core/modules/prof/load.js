@@ -1,0 +1,1 @@
+profilerMain.update(profileInfo);

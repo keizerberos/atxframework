@@ -1,0 +1,24 @@
+2017-06-12 06:26:38pm [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('jose','aaa','123')
+2017-06-12 06:26:38pm [ID QUERY] 13
+2017-06-12 06:26:38pm [ERROR] 
+2017-06-13 08:41:06am [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('carlos','carlos','432')
+2017-06-13 08:41:06am [ID QUERY] 14
+2017-06-13 08:41:06am [ERROR] 
+2017-06-13 08:43:10am [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('mai','mai','123')
+2017-06-13 08:43:10am [ID QUERY] 15
+2017-06-13 08:43:10am [ERROR] 
+2017-06-13 09:02:47am [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('dasd','123','123')
+2017-06-13 09:02:47am [ID QUERY] 16
+2017-06-13 09:02:47am [ERROR] 
+2017-06-13 09:02:53am [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('423','423','423')
+2017-06-13 09:02:53am [ID QUERY] 17
+2017-06-13 09:02:53am [ERROR] 
+2017-06-13 09:02:59am [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('543','543','543')
+2017-06-13 09:02:59am [ID QUERY] 18
+2017-06-13 09:02:59am [ERROR] 
+2017-06-19 12:33:30pm [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('qwedd','dsad13','444')
+2017-06-19 12:33:30pm [ID QUERY] 0
+2017-06-19 03:57:59pm [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('4r4','r4r4r4','123')
+2017-06-19 03:57:59pm [ID QUERY] 0
+2017-07-21 05:05:34pm [TRY QUERY] insert into usuarios (nombre,usuario,clave) values ('234','543','123')
+2017-07-21 05:05:34pm [ID QUERY] 0

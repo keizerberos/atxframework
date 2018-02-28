@@ -1,0 +1,46 @@
+2017-06-13 12:26:49am "accesos = {\"cod_mod\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\"],\"cod\":[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],\"val\":[false,true,true,false,false,false,false,false,false,false,false,false,false,false,false]}"
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('1','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 76
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('2','13','1')
+2017-06-12 06:26:49pm [ID QUERY] 77
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('3','13','1')
+2017-06-12 06:26:49pm [ID QUERY] 78
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('4','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 79
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('5','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 80
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('6','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 81
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('7','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 82
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('8','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 83
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('9','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 84
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('10','13','0')
+2017-06-12 06:26:49pm [ID QUERY] 85
+2017-06-12 06:26:49pm [ERROR] 
+2017-06-12 06:26:49pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('11','13','0')
+2017-06-12 06:26:50pm [ID QUERY] 86
+2017-06-12 06:26:50pm [ERROR] 
+2017-06-12 06:26:50pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('12','13','0')
+2017-06-12 06:26:50pm [ID QUERY] 87
+2017-06-12 06:26:50pm [ERROR] 
+2017-06-12 06:26:50pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('13','13','0')
+2017-06-12 06:26:50pm [ID QUERY] 88
+2017-06-12 06:26:50pm [ERROR] 
+2017-06-12 06:26:50pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('14','13','0')
+2017-06-12 06:26:50pm [ID QUERY] 89
+2017-06-12 06:26:50pm [ERROR] 
+2017-06-12 06:26:50pm [TRY QUERY] insert into maccesos (cod_mod,cod_usu,acceso) values ('15','13','0')
+2017-06-12 06:26:50pm [ID QUERY] 90
+2017-06-12 06:26:50pm [ERROR] 
